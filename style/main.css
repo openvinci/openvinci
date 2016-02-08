@@ -1,0 +1,62 @@
+/* CSS Document */
+@import url(pictos/pictos.css);
+@import url(fontAwesome/css/font-awesome.min.css);
+
+.loadingBox{
+    position:absolute;
+    top:45%;
+    left:45%;
+    width:160px;
+    height:46px;
+    border:2px solid #0066FF;
+    background: url(../ext/resources/themes/images/default/shared/blue-loading.gif) 5px 5px no-repeat white;
+    padding:5px 5px 5px 40px;
+}
+
+.app-header {
+    background-color: #cdcdff;
+    background-image: -webkit-linear-gradient( #cdcdff , #fff ); /* Chrome 10+, Saf5.1+ */
+    background-image:    -moz-linear-gradient( #cdcdff , #fff ); /* FF3.6 */
+    background-image:     -ms-linear-gradient( #cdcdff , #fff ); /* IE10 */
+    background-image:      -o-linear-gradient( #cdcdff , #fff ); /* Opera 11.10+ */
+    background-image:         linear-gradient( #cdcdff , #fff );
+    box-shadow: 0.3em 0.3em 0.1em #888;
+}
+
+.app-header h1{
+    color: #00669c;
+    font-size: 3em;
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-weight: bold;
+    padding: .35em;
+    padding-left: 3em;
+    margin: 0;
+    text-shadow: 0  -1px 1px white;
+}
+
+.app-header img{
+    position: absolute;
+    width:5.3em;
+}
+
+#navToolBar{
+    box-shadow: 0.3em 0.3em 0.1em #888;
+}
+
+.iconDelete{
+    background: url("imgs/icon-delete.png");
+    background-size: 16px 16px;
+}
+
+.iconCheck{
+    background: url("imgs/icon-check.png");
+    background-size: 16px 16px;
+}
+
+.iconEdit{
+    background: url("imgs/icon-edit.png");
+    background-size: 16px 16px;
+}
+.x-livesearch-match{
+    background-color: yellow;
+}

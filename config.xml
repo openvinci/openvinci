@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <!-- database access data -->
+    <databases>
+        <db driver="mysql" server="localhost" database="openvinc_vinci" user="openvinc_v6" password="openvinci2015+"/>
+    </databases>
+    <!-- access control list, id value til 45 characters alphanum, !!!!DO NOT USE ',' -->
+    <acl>
+        <permit id="1">Administrar Usuarios</permit>
+        <permit id="2">Administrar Grupos</permit>
+        <permit id="3">Gestión de Contabilidades</permit>
+        <permit id="4">Definir períodos</permit>
+        <permit id="5">Configurar Sitio</permit>
+        <permit id="6">Respaldo de datos</permit>
+        <permit id="7">Restaurar datos</permit>
+        <permit id="8">Definir cuenta</permit>
+        <permit id="9">Catálogo de cuentas</permit>
+        <permit id="10">Modificar cuenta</permit>
+        <permit id="11">Eliminar cuenta</permit>
+        <permit id="12">Imprimir catálogo de cuentas</permit>
+        <permit id="13">Obtener catálogo externo</permit>
+        <permit id="14">Grupos contables</permit>
+        <permit id="15">Agregar partida</permit>
+
+        <permit id="17">Modificar partida</permit>
+        <permit id="18">Eliminar partida</permit>
+        <permit id="19">Anular partida</permit>
+        <permit id="20">Imprimir Diario</permit>
+        <permit id="21">Gestion de libros de diario</permit>
+        <permit id="22">Gestion de Tipos de partidas</permit>
+
+        <permit id="24">Gestion de Marcadores</permit>
+
+        <permit id="25">Introducir operación de banco</permit>
+        <permit id="27">Modificar operación de banco</permit>
+        <permit id="28">Eliminar operación de banco</permit>
+        <permit id="29">Anular operación de banco</permit>
+
+        <permit id="33">Cuentas bancarias</permit>
+
+        <permit id="35">Ver Mayor General</permit>
+        <permit id="36">Imprimir Mayor General</permit>
+        <permit id="37">Ver Balances</permit>
+        <permit id="38">Imprimir Balances</permit>
+        <permit id="39">Cierre de Periodo</permit>
+
+        <permit id="103">Gestión de catálogos de cuentas</permit>
+        <permit id="104">Importar de Vinci 4.5</permit>
+        <permit id="105">Gestión de Proveedores</permit>
+        <permit id="106">Gestión de tipos de documentos del proveedor</permit>
+        <permit id="107">Administrar Monedas</permit>
+        <permit id="108">Administrar Beneficiarios</permit>
+
+    </acl>
+
+    <!-- include file list -->
+    <includes>
+        <!-- ADOdb minimun files -->
+        <fle>data/libs/adodb5/adodb.inc.php</fle>
+        <fle>data/libs/adodb5/adodb-lib.inc.php</fle>
+        <fle>data/libs/adodb5/adodb-php4.inc.php</fle>
+        <fle>data/libs/adodb5/adodb-time.inc.php</fle>
+        <fle>data/libs/adodb5/adodb-iterator.inc.php</fle>
+        <!-- ADOdb optional files -->
+        <fle>data/libs/adodb5/adodb-csvlib.inc.php</fle>
+        <fle>data/libs/adodb5/adodb-active-record.inc.php</fle>
+        <fle>data/libs/adodb5/adodb-error.inc.php</fle>
+        <fle>data/libs/adodb5/tohtml.inc.php</fle>
+        <fle>data/libs/adodb5/pivottable.inc.php</fle>
+        <!-- email class -->
+        <fle>data/libs/email.php</fle>
+        <!-- phpExel class -->
+        <fle>data/libs/PHPExcel.php</fle>
+        <!-- pdf class -->
+        <fle>data/libs/mpdf60/mpdf.php</fle>
+    </includes>
+    <!-- site configurations -->
+    <site>
+        <config id="siteName" display="Nombre del Sitio" type="string">Open Vinci 6.0</config>
+
+        <config id="InstitName" display="Institución" type="string">Institucion de Prueba</config>
+        <config id="NIT" display="NIT" type="string">11967358</config>
+        <config id="direccion" display="Dirección" type="string">2 avenida 6-40 zona 2, El Zapote</config>
+        <config id="telefono" display="Teléfono" type="string">22540629; 22889699</config>
+        <config id="email" display="Correo" type="string">fgt@fgtoriello.org.gt</config>
+
+        <config id="tpCierre" display="tipo de partida de cierre" type="int">6</config>
+        <config id="tpApertura" display="tipo de partida de apertura" type="int">7</config>
+    </site>
+</config>

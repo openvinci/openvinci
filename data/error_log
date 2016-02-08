@@ -1,0 +1,15 @@
+[18-Dec-2015 15:28:06 America/Guatemala] PHP Fatal error:  Call to undefined method stdClass::MoveNext() in /home4/openvinci/public_html/vinci/data/folders.php on line 64
+[18-Dec-2015 15:28:27 America/Guatemala] PHP Fatal error:  Call to undefined method stdClass::MoveNext() in /home4/openvinci/public_html/vinci/data/folders.php on line 64
+[18-Dec-2015 15:29:13 America/Guatemala] PHP Fatal error:  Call to undefined method stdClass::MoveNext() in /home4/openvinci/public_html/vinci/data/folders.php on line 64
+[18-Dec-2015 15:29:17 America/Guatemala] PHP Fatal error:  Call to undefined method stdClass::MoveNext() in /home4/openvinci/public_html/vinci/data/folders.php on line 64
+[19-Dec-2015 19:38:09 America/Guatemala] PHP Fatal error:  Call to undefined method stdClass::MoveNext() in /home4/openvinci/public_html/vinci/data/folders.php on line 64
+[19-Dec-2015 19:38:18 America/Guatemala] PHP Fatal error:  Call to undefined method stdClass::MoveNext() in /home4/openvinci/public_html/vinci/data/folders.php on line 64
+[19-Dec-2015 19:38:28 America/Guatemala] PHP Fatal error:  Call to undefined method stdClass::MoveNext() in /home4/openvinci/public_html/vinci/data/folders.php on line 64
+[19-Dec-2015 20:39:44 America/Guatemala] PHP Fatal error:  Call to undefined method stdClass::MoveNext() in /home4/openvinci/public_html/vinci/data/folders.php on line 64
+[19-Dec-2015 20:40:52 America/Guatemala] PHP Fatal error:  Call to undefined method stdClass::MoveNext() in /home4/openvinci/public_html/vinci/data/folders.php on line 64
+[19-Dec-2015 20:40:57 America/Guatemala] PHP Fatal error:  Call to undefined method stdClass::MoveNext() in /home4/openvinci/public_html/vinci/data/folders.php on line 64
+[19-Dec-2015 20:41:20 America/Guatemala] PHP Fatal error:  Call to undefined method stdClass::MoveNext() in /home4/openvinci/public_html/vinci/data/folders.php on line 64
+[05-Feb-2016 14:19:24 America/Guatemala] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home4/openvinci/public_html/vinci/data/check.php on line 74
+[05-Feb-2016 16:19:26 America/Guatemala] PHP Fatal error:  Call to undefined method stdClass::MoveNext() in /home4/openvinci/public_html/vinci/data/folders.php on line 64
+[06-Feb-2016 16:44:02 America/Guatemala] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home4/openvinci/public_html/vinci/data/deposit.php on line 75
+[06-Feb-2016 23:37:43 America/Guatemala] PHP Fatal error:  Call to undefined method stdClass::MoveNext() in /home4/openvinci/public_html/vinci/data/folders.php on line 64

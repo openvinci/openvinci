@@ -1,0 +1,28 @@
+[19-Dec-2015 19:38:11 America/Chicago] PHP Warning:  parse_ini_file(config.ini): failed to open stream: No such file or directory in /home4/openvinci/public_html/vinci/data/mailListener/process.php on line 4
+[19-Dec-2015 19:38:11 America/Chicago] PHP Warning:  parse_ini_file(config.ini): failed to open stream: No such file or directory in /home4/openvinci/public_html/vinci/data/mailListener/process.php on line 4
+[19-Dec-2015 19:38:12 America/Chicago] PHP Warning:  parse_ini_file(config.ini): failed to open stream: No such file or directory in /home4/openvinci/public_html/vinci/data/mailListener/process.php on line 4
+[19-Dec-2015 19:38:14 America/Chicago] PHP Warning:  parse_ini_file(config.ini): failed to open stream: No such file or directory in /home4/openvinci/public_html/vinci/data/mailListener/process.php on line 4
+[19-Dec-2015 19:38:17 America/Guatemala] PHP Warning:  parse_ini_file(config.ini): failed to open stream: No such file or directory in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 5
+[19-Dec-2015 19:38:17 America/Guatemala] PHP Warning:  imap_open(): Couldn't open stream  in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 7
+[19-Dec-2015 19:38:27 America/Guatemala] PHP Warning:  parse_ini_file(config.ini): failed to open stream: No such file or directory in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 5
+[19-Dec-2015 19:38:27 America/Guatemala] PHP Warning:  imap_open(): Couldn't open stream  in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 7
+[19-Dec-2015 20:38:28 America/Guatemala] PHP Warning:  parse_ini_file(config.ini): failed to open stream: No such file or directory in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 5
+[19-Dec-2015 20:38:28 America/Guatemala] PHP Warning:  imap_open(): Couldn't open stream  in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 7
+[19-Dec-2015 20:39:43 America/Guatemala] PHP Warning:  parse_ini_file(config.ini): failed to open stream: No such file or directory in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 5
+[19-Dec-2015 20:39:43 America/Guatemala] PHP Warning:  imap_open(): Couldn't open stream  in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 7
+[19-Dec-2015 20:40:51 America/Guatemala] PHP Warning:  parse_ini_file(config.ini): failed to open stream: No such file or directory in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 5
+[19-Dec-2015 20:40:51 America/Guatemala] PHP Warning:  imap_open(): Couldn't open stream  in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 7
+[19-Dec-2015 20:40:56 America/Guatemala] PHP Warning:  parse_ini_file(config.ini): failed to open stream: No such file or directory in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 5
+[19-Dec-2015 20:40:56 America/Guatemala] PHP Warning:  imap_open(): Couldn't open stream  in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 7
+[19-Dec-2015 20:41:20 America/Guatemala] PHP Warning:  parse_ini_file(config.ini): failed to open stream: No such file or directory in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 5
+[19-Dec-2015 20:41:20 America/Guatemala] PHP Warning:  imap_open(): Couldn't open stream  in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 7
+[19-Dec-2015 20:43:02 America/Guatemala] PHP Warning:  parse_ini_file(config.ini): failed to open stream: No such file or directory in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 5
+[19-Dec-2015 20:43:02 America/Guatemala] PHP Warning:  imap_open(): Couldn't open stream  in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 7
+[19-Dec-2015 20:55:03 America/Guatemala] PHP Warning:  parse_ini_file(config.ini): failed to open stream: No such file or directory in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 5
+[19-Dec-2015 20:55:03 America/Guatemala] PHP Warning:  imap_open(): Couldn't open stream  in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 7
+[19-Dec-2015 21:07:03 America/Guatemala] PHP Warning:  parse_ini_file(config.ini): failed to open stream: No such file or directory in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 5
+[19-Dec-2015 21:07:03 America/Guatemala] PHP Warning:  imap_open(): Couldn't open stream  in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 7
+[03-Jan-2016 10:09:29 America/Guatemala] PHP Warning:  imap_headerinfo(): Bad message number in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 21
+[03-Jan-2016 10:09:29 America/Guatemala] PHP Warning:  imap_fetchstructure(): Bad message number in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 24
+[03-Jan-2016 10:09:29 America/Guatemala] PHP Warning:  imap_fetchbody(): Bad message number in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 51
+[03-Jan-2016 10:09:29 America/Guatemala] PHP Warning:  imap_fetchbody(): Bad message number in /home4/openvinci/public_html/vinci/data/mailListener/index.php on line 52

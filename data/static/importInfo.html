@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+<h3>reglas y metodo de importación</h3>
+preparando el archcivo a importar:
+<ul>
+    <li>Todas las tablas de la carpeta se exportan a "Delimited Text" en paradox, las opciones de exportacion son:
+        <ol>
+            <li>Character Set: <b>ANSI</b></li>
+            <li>Field Names: <b>seleccionado</b></li>
+        </ol>
+    </li>
+    <li>En la carpeta de trabajo de paradox, comprimir todos los <b>.txt</b> exportados en un zip, <b><i>el zip debe tener el nombre de la carpeta de trabajo</i></b>, este zip es el archivo a importar</li>
+</ul>
+importando:
+<ul>
+    <li>
+        El archivo a importar es el ultimo campo a seleccionar, cuando se halla seleccionado el formulario se envia automaticamente.
+    </li>
+    <li>
+        Si hay errores importando, estos se reflejan en la barra de progreso.
+    </li>
+</ul>
+despues de importar:
+<ul>
+    <li>
+        Los veneficiarios al importarse se asignan por defecto a la primera cuenta bancaria existente(en la version anterior de vinci esta interface nunca se completó), asi q luego de importar deben reasignarce a sus verdaderas cuentas
+    </li>
+</ul>
+ademas:
+<ul>
+    <li>El nombre del zip es el nombre de la contabilidad importada, se usa ademas para determinar las dependencias en los casos de contabilidades consolidadas, una vez importadas todas las carpetas de trabajo se podran cambiar los nombres de las contabilidades, pero si se hace antes, entonces hay q reasociar los origenes para las contabilidades consolidadas </li>
+    <li>Cuando se importa una carpeta el sistema hace un respaldo de datos de forma automatica, tengalo en cuenta en caso de q hallan errores de importación</li>
+</ul>
+</body>
+</html>
