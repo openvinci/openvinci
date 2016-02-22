@@ -2,7 +2,7 @@
 <config>
     <!-- database access data -->
     <databases>
-        <db driver="mysql" server="localhost" database="openvinc_vinci" user="openvinc_v6" password="openvinci2015+"/>
+        <db driver="mysql" server="localhost" database="bd_vinci" user="vinci_user" password="vinci_pass"/>
     </databases>
     <!-- access control list, id value til 45 characters alphanum, !!!!DO NOT USE ',' -->
     <acl>
